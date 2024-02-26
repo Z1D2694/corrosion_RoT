@@ -7,4 +7,4 @@ It states the following:
 
 The partial pressure of CO2 is calculated as follows:
 
-$$\text{Partial Pressure CO}_2 = \left(\frac{\text{Molar \% of CO}_2 \times \text{Pressure at Packer Depth}}{100}\right)$$
+$$\text{Partial Pressure CO}_2 = \left(\frac{\text{\% Molar of CO}_2 \times \text{Pressure at Packer Depth}}{100}\right)$$
